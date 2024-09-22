@@ -14,7 +14,7 @@ export default function Home() {
           Github
         </Link>
         <Link href={"https://vercel.com/aman-bhartis-projects-76680f49"} className="w-fit px-4 rounded-lg py-2 flex justify-center items-center bg-purple-500 text-white">
-          Porfolio
+          Portfolio
         </Link>
       </div>
       <BFHLForm />
